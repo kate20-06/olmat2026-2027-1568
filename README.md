@@ -8,7 +8,7 @@
 | 19.09.26   | Взвешивания | [weighing](5-2/weighing.pdf) |
 | 26.09.26   | Конструктивы | [constructive](5-1/dirikhle.png) |
 | 03.10.26   | Принцип Дирихле | [dirikhle](5-1/dirikhle.png)  |
-| 10.10.26   | Геометрия. Длины. |  |
+| 10.10.26   | Геометрия. Длины. | [geometry_length](5-1/geometry_length.pdf) |
 
 
 
@@ -22,7 +22,7 @@
 | 12.09.26   | Отбор          | [enter_test](5-2/enter_test_5.pdf) |
 | 19.09.26   | Взвешивания | [weighing](5-2/weighing.pdf) |
 | 03.10.26   | Принцип Дирихле| [dirikhle](5-2/dirikhle.png) |
-| 10.10.26   | Геометрия. Длины. |  |
+| 10.10.26   | Геометрия. Длины. | [geometry_length](5-2/geometry_length.pdf) |
 
 
 
