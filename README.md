@@ -9,6 +9,7 @@
 | 26.09.26   | Конструктивы | [constructive](5-1/dirikhle.png) |
 | 03.10.26   | Принцип Дирихле | [dirikhle](5-1/dirikhle.png)  |
 | 10.10.26   | Геометрия. Длины. | [geometry_length](5-1/geometry_length.pdf) |
+| 17.10.26   | Четность | [parity](5-1/parity.pdf) |
 
 
 
@@ -23,7 +24,7 @@
 | 19.09.26   | Взвешивания | [weighing](5-2/weighing.pdf) |
 | 03.10.26   | Принцип Дирихле| [dirikhle](5-2/dirikhle.png) |
 | 10.10.26   | Геометрия. Длины. | [geometry_length](5-2/geometry_length.pdf) |
-
+| 17.10.26   | Четность | [parity](5-1/parity.pdf) |
 
 
 
@@ -38,6 +39,8 @@
 |-| Теория по графам | [graph_theory](7m1/grapth_theory.pdf)
 | 03.10.26   |   Эйлеровость       | [eulerian_path](7m1/eulerian_path.pdf) |
 | 10.10.26   | Двудольные графы | [bipartite_graphs](7m1/bipartite_graphs.pdf) |
+| 17.10.26   | Деревья | [trees](7m1/trees.pdf) |
+| 24.10.26   | Дорешка |  |
 
 
 
@@ -51,5 +54,6 @@
 | 26.09.26   |   Оценка + Пример       | [o+p](7l1/bounds_and_constructions.pdf) |
 | 03.10.26   |   Оценка + Пример       | [o+p](7l1/bounds_and_constructions.pdf) |
 | 10.10.26   |   Инварианты | [invariant](7l1/invariant.pdf) |
+| 17.10.26   |   Инварианты | [invariant](7l1/invariant.pdf) |
 
 
