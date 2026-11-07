@@ -10,6 +10,8 @@
 | 03.10.26   | Принцип Дирихле | [dirikhle](5-1/dirikhle.png)  |
 | 10.10.26   | Геометрия. Длины. | [geometry_length](5-1/geometry_length.pdf) |
 | 17.10.26   | Четность | [parity](5-1/parity.pdf) |
+| 24.10.26   | Четность | [parity](5-1/parity.pdf) |
+| 07.11.26   | Четность | [parity2](5-1/parity2.pdf) |
 
 
 
@@ -25,6 +27,8 @@
 | 03.10.26   | Принцип Дирихле| [dirikhle](5-2/dirikhle.png) |
 | 10.10.26   | Геометрия. Длины. | [geometry_length](5-2/geometry_length.pdf) |
 | 17.10.26   | Четность | [parity](5-1/parity.pdf) |
+| 24.10.26   | Четность | [parity](5-1/parity.pdf) |
+| 07.11.26   | Четность | [parity2](5-1/parity2.pdf) |
 
 
 
@@ -41,6 +45,7 @@
 | 10.10.26   | Двудольные графы | [bipartite_graphs](7m1/bipartite_graphs.pdf) |
 | 17.10.26   | Деревья | [trees](7m1/trees.pdf) |
 | 24.10.26   | Дорешка |  |
+| 07.11.26   | Комба. Правила сложения и произведения | [komba1](7m1/komba1.pdf) |
 
 
 
@@ -55,5 +60,7 @@
 | 03.10.26   |   Оценка + Пример       | [o+p](7l1/bounds_and_constructions.pdf) |
 | 10.10.26   |   Инварианты | [invariant](7l1/invariant.pdf) |
 | 17.10.26   |   Инварианты | [invariant](7l1/invariant.pdf) |
+| 24.10.26   |  Раскраски | [raskraski](7l1/raskraski.pdf)  |
+| 07.11.26   | Раскраски | [raskraski](7l1/raskraski.pdf) |
 
 
